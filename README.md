@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muath Sharawy</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Doctorial "Alo-Delivery"**
-  - Schedule package deliveries to specific locations.
-  - Track the status of your deliveries.
-  - View delivery history.
+- 🔭 I’m currently working at **"Active4Web"** company.
 
-- 🌱 I’m currently learning **Firebase, Backend**
+- 👨‍💻 All of my projects are available here **[Muath Sharawy](https://github.com/muathsharawy99)**.
 
-- 👨‍💻 All of my projects are available at **[Muath Sharawy](https://github.com/muathsharawy99)**
+- 📫 How to get in contact with me **[muath0sharawy@gmail.com](mailto:muath0sharawy@gmail.com)**.
 
-- 📫 How to reach me **[muath0sharawy@gmail.com](mailto:muath0sharawy@gmail.com)**
-
-- 📄 Know about my experiences **[Muath Sharawy](https://linkedin.com/in/muathsharawy99)**
+- 📄 Know about my experiences **[Muath Sharawy](https://linkedin.com/in/muathsharawy99)**.
 
 - ⚡ Fun fact **IMPOSSIBLE IS JUST A WORD**
 
@@ -26,7 +21,6 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
  </p>
