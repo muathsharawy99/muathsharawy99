@@ -1,6 +1,10 @@
 <h1 align="center">
-  <!-- GitHub-hosted Lottie Animation -->
-  <img src="https://github.com/muathsharawy99/muathsharawy99/raw/main/good_morning.gif" alt="Good Morning" width="300" height-"300">
+  <a href="#" style="pointer-events: none; display: inline-block;">
+    <img src="https://github.com/muathsharawy99/muathsharawy99/raw/main/good_morning.gif" 
+         alt="Good Morning" 
+         width="300" 
+         height="300">
+  </a>
 </h1>
 
 ### 🚀 About Me
@@ -17,20 +21,28 @@
 - 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1rvKgHl2vv3PCorOL2M7n7633T5Dx_xqT/view?usp=sharing)**
 - ⚡ Fun fact: **Impossible is just a word**
 
+
+
+
 ### 🛠 Tech Stack
 <!-- Simple animated icons -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,vscode&theme=light&perline=4" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,github,firebase,figma,androidstudio,vscode&theme=light&perline=4" alt="Tech Stack Icons" />
 </p>
 
+
+
+
 ### 📫 How to Reach Me
-<p align="center">
-  <!-- LinkedIn with subtle hover animation -->
+<!-- Contact icons matching tech stack style -->
+<p align="left">
   <a href="https://linkedin.com/in/muathsharawy99" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  
-  <!-- Gmail with subtle hover animation -->
   <a href="mailto:muath0sharawy@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
+  <a href="https://github.com/muathsharawy99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
