@@ -6,7 +6,9 @@
 ### 🚀 About Me
 <!-- Text animation only -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02569B&center=true&width=500&lines=Crafting+exceptional+mobile+experiences;Turning+ideas+into+reality;Clean+code+enthusiast;Impossible+is+just+a+word!&repeat=true" alt="Typing animation" />
+  <a href="#" onclick="return false;" style="text-decoration: none; cursor: default;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=500&lines=Crafting+exceptional+mobile+experiences;Turning+ideas+into+reality;Clean+code+enthusiast;Impossible+is+just+a+word!&repeat=true" alt="Typing animation" style="pointer-events: none;"/>
+  </a>
 </p>
 
 - 💼 Flutter Developer at **[Al Almiya Alhura](https://www.linkedin.com/company/alalmiyaalhura/)**
