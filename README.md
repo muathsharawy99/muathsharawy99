@@ -3,7 +3,8 @@
     <img src="https://github.com/muathsharawy99/muathsharawy99/raw/main/good_morning.gif" 
          alt="Good Morning" 
          width="300" 
-         height="300">
+         height="300"
+      >
   </a>
 </h1>
 
@@ -11,7 +12,7 @@
 <!-- Text animation only -->
 <p align="center">
   <a href="#" onclick="return false;" style="text-decoration: none; cursor: default;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=500&lines=Crafting+exceptional+mobile+experiences;Turning+ideas+into+reality;Clean+code+enthusiast;Impossible+is+just+a+word!&repeat=true" alt="Typing animation" style="pointer-events: none;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=500&lines=Crafting+exceptional+mobile+experiences;Turning+ideas+into+reality;Clean+code+enthusiast;Impossible+is+just+a+word!&repeat=true" alt="Typing animation" style="pointer-events: none;"/>
   </a>
 </p>
 
