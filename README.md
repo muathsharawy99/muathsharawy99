@@ -27,14 +27,13 @@
 ### 🛠 Tech Stack
 <!-- Simple animated icons -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,github,firebase,figma,androidstudio,vscode&theme=light&perline=4" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,github,firebase,figma,androidstudio,idea,vscode&theme=light&perline=4" alt="Tech Stack Icons" />
 </p>
 
 
 
 
 ### 📫 How to Reach Me
-<!-- Contact icons matching tech stack style -->
 <p align="left">
   <a href="https://linkedin.com/in/muathsharawy99" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -45,4 +44,6 @@
   <a href="https://github.com/muathsharawy99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
+<!--    <a href="https://wa.me/YOUR_NUMBER?text=Hi%20Muath%2C%20I%27m%20%5BName%5D%21%20Let%27s%20connect%3F" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="WhatsApp" width="48" height="48" /> -->
 </p>
